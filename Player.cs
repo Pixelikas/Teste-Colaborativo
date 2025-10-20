@@ -5,7 +5,7 @@ public class Player : MonoBehaviour
 
     void Start()
     {
-
+     DEbug.Log("OI")
     }
 
     void Update()
